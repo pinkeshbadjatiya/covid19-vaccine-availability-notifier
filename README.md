@@ -14,5 +14,5 @@
 
 
 ### Run
-Run the script using `python check_vaccine_availability.py` which will check availability and notify once its available
+Run the script using `python check-vaccine-availability.py` which will check availability and notify once its available
 
